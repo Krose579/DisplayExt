@@ -1,0 +1,10 @@
+ ### MAIN CONTAINER ###
+main: container
+main-menu: menu, Main Menu, Add Baby, Exit
+
+### BABY INFO CONTAINER ###
+baby-info: container
+baby-info-age: field, Integer, Age
+baby-info-bp: field, string, Birth Place
+baby-info-hc: field, string, Hair Color
+baby-info-weight: field, double, Weight (lbs)
